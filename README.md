@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OllyByte
+- 👀 I’m interested in networks and the cloud
+- 🌱 I’m currently learning Azure, PowerShell, Java, and more!
